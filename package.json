@@ -1,0 +1,9 @@
+{
+  "name": "sourcemap-validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sourcemap-validator": "^2.1.0"
+  }
+}
